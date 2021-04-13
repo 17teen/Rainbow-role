@@ -1,5 +1,7 @@
 # Rainbow-role
 
+[Tutorial](https://www.youtube.com/watch?v=8wNfm1ZwIL4)
+
 Must have [Node.JS LTS Version](https://nodejs.org/en/) installed & and some sort of text editor.
 Put your bot token in the `config.json`
 
