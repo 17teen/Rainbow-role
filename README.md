@@ -19,6 +19,8 @@ npm i chalk
 
 Min Permission(s): `MANAGE_ROLES` or `ADMINISTRATOR`
 
+**Note:** All your bots intents must be toggled on.
+
 Run the `run.bat` file to start once you done everything above. If on mac type `node script.js` in the terminal.
 
 ## Contact Me
