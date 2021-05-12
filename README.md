@@ -1,11 +1,29 @@
 # Rainbow-role
 
+![image](https://user-images.githubusercontent.com/71920969/117990890-7dca9880-b335-11eb-9887-d4ace3bd4643.png)
+
+
 [Tutorial](https://www.youtube.com/watch?v=8wNfm1ZwIL4)
+
+**Description:** Creates a role which rotates between colours giving a rainbow like effect.
+
+**Features:**
+
+- 2 New Rainbow Modes (`Fast` & `Gradient`).
+- More colors added.
+- Increased rotation speeds.
+
+- Gradient Mode:
+  - Color Amount: 24 colors.
+  - Color Rotation Speed: 5s.
+- Fast Mode:
+  - Color Amount: 8 colors.
+  - Color Rotation Speed: 700ms | 0.7s.
 
 Must have [Node.JS LTS Version](https://nodejs.org/en/) installed & and some sort of text editor.
 Put your bot token in the `config.json`
 
-Run these commands in the console: (In order)
+Run these commands in the console: (must be in the same folder directory)
 
 ```
 npm init
