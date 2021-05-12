@@ -1,8 +1,6 @@
 @echo off
-title Role Rainbow
-:top
+title Role Rainbow V2
 node .
 cls
 pause
 exit
-goto :top
