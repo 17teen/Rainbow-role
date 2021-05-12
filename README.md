@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/71920969/117990890-7dca9880-b335-11eb-9887-d4ace3bd4643.png)
 
 
-[Tutorial](https://www.youtube.com/watch?v=8wNfm1ZwIL4)
+[Tutorial](https://www.youtube.com/watch?v=rP25VX6de4A)
 
 **Description:** Creates a role which rotates between colours giving a rainbow like effect.
 
