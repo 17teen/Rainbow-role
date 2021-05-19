@@ -43,6 +43,10 @@ Min Permission(s): `MANAGE_ROLES` or `ADMINISTRATOR`
 
 Run the `run.bat` file to start once you done everything above. If on mac type `node script.js` in the terminal.
 
+**Does This Work On Repl.it?**
+
+Yes. [Click Here](https://replit.com/@17teen/Rainbow-role?v=1)
+
 ## Contact Me
 
 ﹒[Discord](https://discord.com/users/709827684888215582)
