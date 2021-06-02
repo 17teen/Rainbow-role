@@ -47,6 +47,10 @@ Run the `run.bat` file to start once you done everything above. If on mac type `
 
 Yes. [Click Here](https://replit.com/@17teen/Rainbow-role?v=1)
 
+## Disclaimer:
+
+This is considered to be API abusing. Use this at your own risk. *(You are also subject to rate limiting)*
+
 ## Contact Me
 
 ﹒[Discord](https://discord.com/users/709827684888215582)
